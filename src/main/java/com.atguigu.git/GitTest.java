@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("git commit 5");
         System.out.println("confilict master commit");
         System.out.println("conflict hot-fix commit");
+        System.out.println("github ssh push");
 
     }
 }
